@@ -17,7 +17,7 @@ The pin configuration is as follows:
 Folders:
 - **/Driver_code** folder for the driver implementation source code and more details.
 - **/SHT21_example** folder there is an example that can be ported directly to STM32IDE.
-- **/Doc** has the main manuals used for the MPU6050 and images for the Readme.
+- **/Doc** has the main manuals used for the SHT21 and images for the Readme.
 
 For now the current operations are supported:
 - Read/Write operations on the I2C bus (generalised)
